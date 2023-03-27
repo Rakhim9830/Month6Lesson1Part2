@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Month6Lesson1Part2</string>
+    <string name="text">Text</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">back</string>
+    <string name="cannot_empty">EditText cannot be empty</string>
+</resources>
